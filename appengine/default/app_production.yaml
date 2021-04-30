@@ -1,0 +1,10 @@
+runtime: go114
+env: standard
+instance_class: F2
+
+automatic_scaling:
+
+service: default
+
+env_variables:
+  DEPLOY: "production"
