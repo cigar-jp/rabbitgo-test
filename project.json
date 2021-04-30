@@ -1,5 +1,5 @@
 {
-    "local": "develop-aikizoku-rabee-jp",
-    "staging": "develop-aikizoku-rabee-jp",
-    "production": ""
+    "local": "develop-cigar",
+    "staging": "develop-cigar",
+    "production": "develop-cigar"
 }
